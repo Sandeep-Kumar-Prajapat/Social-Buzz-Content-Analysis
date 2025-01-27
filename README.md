@@ -72,6 +72,15 @@ Accenture has begun a 03-month POC focusing on these tasks:
 Like – animal content with pet care and healthy eating and food content with food brands.
 
 
+## Tools Used
+
+Programming Languages: SQL
+
+Data Analysis Tools: Excel
+
+Visualization: Tableau, Powerpoint
+
+
 ## Contact
 
 Email: Sandeep7773@yahoo.com
